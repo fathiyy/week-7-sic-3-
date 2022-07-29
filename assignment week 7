@@ -1,0 +1,29 @@
+1. mkdir pataya 
+2. - cd pataya 
+   - mkdir sekolah
+   - mkdir kerja
+3. - cd sekolah
+   - nano ijazah.txt 
+   - Perkenalkan namaku pataya 
+     Aku berasal dari Kota Madiun
+     Salam Kenal :D
+   - cat ijazah.txt
+   - nano portfolio.txt
+   - Saya pernah bekerja pada beberapa perusahaan salah satu 
+     diantaranya ialah
+     - PT KAI 
+     - BNI 
+     - PT JASA TIRTA 
+4. cd ..
+5. - cd kerja
+   - nano cv.txt
+   - Salam,
+     Perkenalkan namaku pataya, saya memiliki kegemaran
+     - membaca 
+     - membaca 
+     - membaca 
+   - cat cv.txt
+6. - cd ..
+   - cd sekolah
+   - mv portfolio.txt /d/pataya/kerja
+ 
